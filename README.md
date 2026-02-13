@@ -19,3 +19,4 @@ Python Module : Winappdbg
 |ldrloadlibrary|Code O, Test|X|
 
 
+wp_checker.py args target_file
